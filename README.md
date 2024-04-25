@@ -2,6 +2,10 @@
 
 ## Certifications
 
+<img src="https://i.imgur.com/GIAte0J.png" alt="Process"/>
+
+---
+
 <img src="https://i.imgur.com/SlUnZ8T.jpg" alt="Итог"/>
 
 ---
