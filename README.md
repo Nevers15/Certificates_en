@@ -1,4 +1,4 @@
-# Certificates and certificates confirming my competencies in the set of knowledge and tools.
+# Certifications and certificates confirming my competencies in the set of knowledge and tools.
 
 ## Certifications
 
