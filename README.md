@@ -1,4 +1,4 @@
-# Certifications and certificates confirming my competencies in the set of knowledge and tools.
+# Certificates and cridentials confirming my competencies in the set of knowledge and tools.
 
 ## Certifications
 
@@ -28,7 +28,7 @@
 
 <img src="https://i.imgur.com/Vf7dCBD.jpg" alt="SQL"/>
 
-## Certificates
+## Cridentials
 
 
 <img src="https://i.imgur.com/GgAeM4z.jpg" alt="POWER"/>
