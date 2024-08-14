@@ -2,6 +2,10 @@
 
 ## Credentials
 
+<img src="https://imgur.com/wGrSjLb.png" alt="NN"/>
+
+---
+
 <img src="https://i.imgur.com/GIAte0J.png" alt="Process"/>
 
 ---
