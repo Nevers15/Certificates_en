@@ -2,6 +2,10 @@
 
 ## Credentials
 
+<img src="https://i.imgur.com/MD9GGBN.png" alt="Pyt"/>
+
+---
+
 <img src="https://imgur.com/wGrSjLb.png" alt="NN"/>
 
 ---
